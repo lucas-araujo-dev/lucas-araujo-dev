@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Araújo</h1>
 <h3 align="center">FullStack Developer From Brazil</h3>
 
-<p align="left"> <a href="https://twitter.com/lucasaraujo86x" target="blank"><img src="https://img.shields.io/twitter/follow/lucasaraujo86x?logo=twitter&style=for-the-badge" alt="lucasaraujo86x" /></a> </p>
+
 
 - 🌱 I’m currently learning **Ruby, React JS**
 
