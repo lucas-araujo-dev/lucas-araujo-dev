@@ -26,9 +26,3 @@
 </p>
 
 
-<p align="left">
-<a href="https://twitter.com/lucasaraujo86x" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="lucasaraujo86x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lucas-araujo-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="lucas-araujo-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/lukas_s86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="lukas_s86" height="30" width="40" /></a>
-<a href="https://discord.gg/#3117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="#3117" height="30" width="40" /></a>
-</p>
