@@ -25,8 +25,9 @@
 <p><a href="https://github.com/lucas-araujo-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/lucasaraujo86x" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href=̈́"https://linkedin.com/in/lucas-araujo-dev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+<br>
 
-![](https://komarev.com/ghpvc/?username=lucas-araujo-dev&color=blue&style=flat
+![](https://komarev.com/ghpvc/?username=lucas-araujo-dev&color=blue&style=flat)
 
 
 
