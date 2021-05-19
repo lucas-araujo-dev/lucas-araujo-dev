@@ -26,3 +26,7 @@
 </p>
 
 
+![](https://komarev.com/ghpvc/?username=lucas-araujo-dev&color=blue&style=flat
+
+
+
