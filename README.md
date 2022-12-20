@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby, React JS**
 
-- 💬 Ask me about **Ruby, React JS, Javascript, Git, Linux**
+- 💬 Ask me about **Ruby, Javascript, Git, Linux**
 
 - 📫 How to reach me **lucas.trabalho.araujo@gmail.com**
 
